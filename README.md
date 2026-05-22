@@ -9,7 +9,7 @@
 **Descargador de videos universal con diseño futurista.**  
 Descarga videos de YouTube, TikTok, Instagram, Twitter, Facebook, Twitch, Vimeo y miles de sitios más.
 
-*Made with ❤️ by **Davis Guevara***
+*Made with ❤️ by **David Guevara***
 
 </div>
 
@@ -116,7 +116,7 @@ Esta herramienta es solo para uso personal y educativo. Respeta los términos de
 
 ## 👤 Autor
 
-**Davis Guevara**
+**David Guevara**
 📧 alexguevara12715@gmail.com
 🐙 [@Caronte12715](https://github.com/Caronte12715)
 
@@ -124,4 +124,4 @@ Esta herramienta es solo para uso personal y educativo. Respeta los términos de
 
 ## 📄 Licencia
 
-MIT © 2025 Davis Guevara — Libre para uso personal.
+MIT © 2025 David Guevara — Libre para uso personal.
