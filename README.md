@@ -11,6 +11,13 @@ Descarga videos de YouTube, TikTok, Instagram, Twitter, Facebook, Twitch, Vimeo 
 
 *Made with ❤️ by **David Guevara***
 
+<br/>
+
+[![Descargar para Windows](https://img.shields.io/badge/Descargar_AluroDownload+_.EXE-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Caronte12715/aluro-download-plus/releases/latest/download/AluroDownload+.Setup.1.0.0.exe)
+[![Descargar Portable (.ZIP)](https://img.shields.io/badge/Descargar_Versión_Portable-333333?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/Caronte12715/aluro-download-plus/releases/latest/download/AluroDownload-Portable-Win64.zip)
+
+<br/>
+
 </div>
 
 ---
